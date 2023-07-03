@@ -152,7 +152,7 @@ export default withBearer(({ bearer }) => {
                                 }
                                 defaultValue={query}
                                 type="search"
-                                placeholder="Search..."
+                                placeholder="Buscar..."
                                 name="query"
                             />
                             <InputGroup.Append className="border-0">
